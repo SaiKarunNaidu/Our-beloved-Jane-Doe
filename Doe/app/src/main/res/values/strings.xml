@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Doe</string>
-    <string name="Phone">Phone</string>
-    <string name="Password">Password</string>
     <string name="PhoneLabel">Phone</string>
     <string name="PasswordLabel">Password</string>
     <string name="login">Login</string>
+    <string name="link_sign_up">No account yet? Create one.</string>
 </resources>
